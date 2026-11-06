@@ -15,6 +15,7 @@ $displayName = htmlspecialchars($_SESSION['full_name'], ENT_QUOTES, 'UTF-8');
 	<title>Task Management</title>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="css/style.css?v=20261012-sidebar-icons">
+	<link rel="stylesheet" href="style.css">
 </head>
 <body>
 	<input type="checkbox" id="checkbox">
